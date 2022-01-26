@@ -1,0 +1,5 @@
+list1=set(["red","orange","blue"])
+list2=set(["cyan","orange","green"])
+d=list1.difference(list2)
+a=list(d)
+print(a)
